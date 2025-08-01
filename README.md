@@ -13,8 +13,6 @@ unhacker.it
 
 spaziocyber.com
 
-scholapasta.it
-
 s3c0p.it
 
 secops.cc
